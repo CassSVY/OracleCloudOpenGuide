@@ -6,8 +6,7 @@
 ##Editing 
 
 - Feel free to send in a pull request. 
-- ****Note: the easiest way to edit this document is to use Sublime Text. Open the file , and then go to `View>>>Word Wrap`. 
-If "Word Wrap" is turned off, you'll see the table appear clearly and it will be easy to edit. Otherwise, it will be a jumble of pipes and dashes and words.**
+- **Note: the easiest way to edit this document is to use Sublime Text. Open the file , and then go to `View>>>Word Wrap`. If "Word Wrap" is turned off, you'll see the table appear clearly and it will be easy to edit. Otherwise, it will be a jumble of pipes and dashes and words.**
 
 ##Contact
 

@@ -11,8 +11,8 @@
 
 ##Contact
 
-- If you're an Oracle employee, feel free to reach out to me at [daniel.ehrlich@oracle.com](mailto:daniel.ehrlich@oracle.com)
-- For everyone else, also feel free to contact me at [daniel.ehrlich1@gmail.com](mailto:daniel.ehrlich1@gmail.com) or [@twitter](https://twitter.com/danielehrlich1).
+- If you're an Oracle employee, feel free to reach out to me internally
+- For everyone else, also feel free to contact me at [daniel.ehrlich1@gmail.com](mailto:daniel.ehrlich1@gmail.com) or [@twitter](https://twitter.com/danielehrlich1)
 
 
 | Service                           | Oracle Cloud                        |  AWS                                   | Microsoft Azure                    | Google Cloud                           |   Other providers                          | Open source “build your own”                               |

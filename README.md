@@ -1,19 +1,18 @@
 # Oracle Cloud Comparison Matrix
 
-This chart lets you compare Oracle Cloud Services with other Cloud Platform companies as well as niche players and open source solutions. 
-
-Special thanks to Joshua Levy, the original creator of the AWS Open Guide, on which this table is based (disclosure - I am also a contributor to that repo).
+- This chart lets you compare Oracle Cloud Services with other Cloud Platform companies as well as niche players and open source solutions. 
+- Special thanks to Joshua Levy, the original creator of the AWS Open Guide, on which this table is based (disclosure - I am also a contributor to that repo).
 
 ##Editing 
 
-Feel free to send in a pull request. 
-** Note: the easiest way to edit this document is to use Sublime Text. Open the file , and then go to `View>>>Word Wrap`. 
-If "Word Wrap" is turned off, you'll see the table appear clearly and it will be easy to edit. Otherwise, it will be a jumble of pipes and dashes and words.
+- Feel free to send in a pull request. 
+- ****Note: the easiest way to edit this document is to use Sublime Text. Open the file , and then go to `View>>>Word Wrap`. 
+If "Word Wrap" is turned off, you'll see the table appear clearly and it will be easy to edit. Otherwise, it will be a jumble of pipes and dashes and words.**
 
 ##Contact
 
-If you're an Oracle employee, feel free to reach out to me at [daniel.ehrlich@oracle.com](mailto:daniel.ehrlich@oracle.com)
-For everyone else, please feel free to contact me at [daniel.ehrlich1@gmail.com](mailto:daniel.ehrlich1@gmail.com) or [@twitter](https://twitter.com/danielehrlich1).
+- If you're an Oracle employee, feel free to reach out to me at [daniel.ehrlich@oracle.com](mailto:daniel.ehrlich@oracle.com)
+- For everyone else, also feel free to contact me at [daniel.ehrlich1@gmail.com](mailto:daniel.ehrlich1@gmail.com) or [@twitter](https://twitter.com/danielehrlich1).
 
 
 | Service                       | Oracle Cloud                        |  AWS                                   | Microsoft Azure                    | Google Cloud                           |   Other providers                          | Open source “build your own”                               |

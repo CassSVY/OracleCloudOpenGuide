@@ -2,6 +2,7 @@
 
 - This chart lets you compare Oracle Cloud Services with other Cloud Platform companies as well as niche players and open source solutions. 
 - Special thanks to Joshua Levy, the original creator of the AWS Open Guide, on which this table is based (disclosure - I am also a contributor to that repo).
+- I am an employee of Oracle Corporation, but nonetheless, views below are my own and based on personal and professional experience.
 
 ##Editing 
 

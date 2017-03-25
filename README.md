@@ -5,7 +5,12 @@
 - Special thanks to Joshua Levy, the original creator of the AWS Open Guide, on which this table is based (disclosure - I am also a contributor to that repo).
 - I am an employee of Oracle Corporation, but nonetheless, views below are my own and based on personal and professional experience.
 
-##Editing 
+## Links
+- Visit the [Oracle Cloud subreddit](https://reddit.com/r/oraclecloud).
+- Check out the official Oracle Cloud Icons [here](https://github.com/danielehrlich/Oracle-Cloud-Official-Icons). You won't find everything below available there, but it's a very good start.
+- If you're curious how to learn to design scalable systems with "cloud-first" principles, look into [this guide](https://github.com/donnemartin/system-design-primer).
+
+## Editing 
 
 - Feel free to send in a pull request. 
 - *Note: the easiest way to edit this document is to use Sublime Text. Open the file , and then go to `View>>>Word Wrap`. If "Word Wrap" is turned off, you'll see the table appear clearly and it will be easy to edit. Otherwise, it will be a jumble of pipes and dashes and words.*
